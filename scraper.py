@@ -1,7 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-
-
 def fetch_jobs():
     print("Fetching job listings...")
 

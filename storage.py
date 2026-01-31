@@ -1,12 +1,8 @@
 import csv
 import os
 from config import DATA_FILE
-
-
 def file_exists():
     return os.path.isfile(DATA_FILE)
-
-
 def get_existing_links():
     links = set()
 
@@ -19,8 +15,6 @@ def get_existing_links():
             links.add(row["link"])
 
     return links
-
-
 def save_jobs(jobs):
     os.makedirs("data", exist_ok=True)
 

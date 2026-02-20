@@ -18,7 +18,7 @@ def main():
 
     save_jobs(filtered_jobs)
 
-    print("\n===== Automation Completed Successfully =====\n")
+    print("\n Automation Completed Successfully \n")
 
 
 if __name__ == "__main__":

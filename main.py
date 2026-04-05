@@ -1,6 +1,7 @@
 from scraper import fetch_jobs
 from cleaner import filter_jobs
 from storage import save_jobs
+
 def main():
     print("\n JobPulse Automation Started \n")
 

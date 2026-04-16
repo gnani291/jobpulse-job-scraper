@@ -16,6 +16,7 @@ def get_existing_links():
             links.add(row["link"])
 
     return links
+
 def save_jobs(jobs):
     os.makedirs("data", exist_ok=True)
 

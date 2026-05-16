@@ -2,7 +2,6 @@ import csv
 import os
 from config import DATA_FILE
 
-
 def file_exists():
     return os.path.isfile(DATA_FILE)
 def get_existing_links():

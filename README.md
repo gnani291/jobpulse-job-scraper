@@ -1,6 +1,7 @@
 # 🚀 JobPulse – Automated Job Scraper
 JobPulse is a Python-based automated job scraping tool that collects job listings from multiple platforms and stores them in a structured format for easy analysis and tracking.
-This project is designed to help job seekers save time by automatically gathering the latest job postings based on keywords and locatio
+This project is designed to help job seekers save time by automatically gathering the latest job postings based on keywords and location
+
 - 🔍 Keyword-based job search  
 - 📍 Location-based filtering  
 - ⚡ Fast and automated scraping  
